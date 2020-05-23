@@ -1,0 +1,13 @@
+table, th, td {
+	border: 1px solid;
+}
+th {
+	background-color: #000;
+	color: #fff;
+}
+input {
+	display: block;
+}
+#saada {
+	margin-top: 2px;
+}
